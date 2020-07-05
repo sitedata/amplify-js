@@ -67,7 +67,7 @@
   },
   "dependencies": {
     "qrcode.react": "^0.8.0",
-    "regenerator-runtime": "^0.11.1"
+    "regenerator-runtime": "^0.13.5"
   },
   "peerDependencies": {
     "aws-amplify": "^1.x"
