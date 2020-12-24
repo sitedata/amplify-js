@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@aws-amplify/analytics": "^1.2.23",
-    "@aws-amplify/api": "^1.0.42",
+    "@aws-amplify/api": "^3.1.0",
     "@aws-amplify/auth": "^1.2.31",
     "@aws-amplify/cache": "^1.0.32",
     "@aws-amplify/core": "^1.1.0",
